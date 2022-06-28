@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+(Setting up Detox - Gray box mobile automation framework in RN App)[https://medium.com/@avinashkannan/detox-gray-box-end-to-end-test-automation-framework-for-react-native-apps-129eb0f19cb0]
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
