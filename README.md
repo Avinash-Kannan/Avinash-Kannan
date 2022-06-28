@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-kannan" /> </p>
 
+- 🔭 I’m currently working on [Automation Framework that supports Web,Mobile and API Testing](https://github.com/Avinash-Kannan/webdriverio-framework) using Node JS, Webdriver.IO, SuperTest 
+
 - 🌱 I’m currently learning **Mobile Automation Frameworks and Automating Performance test**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
