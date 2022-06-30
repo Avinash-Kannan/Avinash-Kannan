@@ -27,5 +27,12 @@
 <a href="https://medium.com/@avinashkannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@avinashkannan" height="30" width="40" /></a>
 </p>
 
+<div align="left">
+<h3 align="left">Check out my repositories:</h3>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-kannan&repo=webdriverio-supertest-framework&theme=dark)](https://github.com/Avinash-Kannan/webdriverio-supertest-framework)
+
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-kannan&show_icons=true&locale=en" alt="avinash-kannan" /></p>
 
