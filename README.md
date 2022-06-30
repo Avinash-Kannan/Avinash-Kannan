@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kannan</h1>
-<h3 align="center">A passionate Software Development Engineer in Test from India</h3>
+<h3 align="center">A passionate Software Development Engineer in Test from Chennai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-kannan" /> </p>
 
@@ -29,8 +29,10 @@
 
 <div align="left">
 <h3 align="left">Check out my repositories:</h3>
+<h4 align="left">Don’t forget to ⭐️ if you find it useful</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-kannan&repo=webdriverio-supertest-framework&theme=dark)](https://github.com/Avinash-Kannan/webdriverio-supertest-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-kannan&repo=Detox-grayboxTest-e2e&theme=dark)](https://github.com/Avinash-Kannan/Detox-grayboxTest-e2e)
 
 </div>
 
