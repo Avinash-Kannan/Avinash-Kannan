@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-kannan" /> </p>
 
-- 🔭 Currently working on Locust Performance Testing framework with Distributed Load using Kubernetes
+- 🔭 Currently working on [Locust Performance Testing framework with Distributed Load using Kubernetes](https://github.com/Avinash-Kannan/performance-locust-kubernetes)
 
 - 🔭 Checkout my [Automation Framework that supports Web,Mobile and API Testing](https://github.com/Avinash-Kannan/webdriverio-framework) using Node JS, Webdriver.IO, SuperTest 
 
@@ -35,6 +35,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-kannan&repo=webdriverio-supertest-framework&theme=dark)](https://github.com/Avinash-Kannan/webdriverio-supertest-framework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-kannan&repo=Detox-grayboxTest-e2e&theme=dark)](https://github.com/Avinash-Kannan/Detox-grayboxTest-e2e)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-kannan&repo=performance-locust-kubernetes&theme=dark)](https://github.com/Avinash-Kannan/performance-locust-kubernetes)
 
 </div>
 
