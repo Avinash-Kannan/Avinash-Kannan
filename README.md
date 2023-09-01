@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kannan</h1>
-<h3 align="center">A passionate Software Development Engineer in Test from Chennai,India</h3>
+<h3 align="center">A passionate Software Development Engineer in Test from Chennai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-kannan" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 Checkout my [Automation Framework that supports Web,Mobile and API Testing](https://github.com/Avinash-Kannan/webdriverio-framework) using Node JS, Webdriver.IO, SuperTest 
 
-- 🌱 I’m currently learning **Mobile Automation Frameworks and Automating Performance test**
+- 🌱 I’m currently learning **Performance Automation, Contract tests**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Web/Mobile/API Automation,CI/CD**
+- 💬 Ask me about **Web/Mobile/API/Performance Automation,CI/CD**
 
 - 📫 How to reach me **https://www.linkedin.com/in/avinash-kannan-960a05191/**
 
